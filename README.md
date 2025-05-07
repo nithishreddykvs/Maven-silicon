@@ -47,7 +47,7 @@ This project involves designing a **Sequence Detector for the pattern `10101`** 
 
 🖥️ Simulation waveform screenshot:
 
-![Simulation Result]([simulation_results](https://github.com/nithishreddykvs/Maven-silicon/blob/main/simulated%20waveform.png)
+![Simulation Result](https://github.com/nithishreddykvs/Maven-silicon/blob/main/simulated%20waveform.png)
 
 ---
 
